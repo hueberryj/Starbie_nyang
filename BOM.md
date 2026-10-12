@@ -19,7 +19,7 @@
 | DHT11 | — | 1 | $0.00 | $0.00 | — |
 | XIAO-ESP32-C3-SMD | — | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$0.00** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$10.00** | — |
 
-$30.00 left of the tier's funding.
+$20.00 left of the tier's funding.
